@@ -1,0 +1,15 @@
+h6{
+    font-size: 15px;
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Speech{
+    font-size: 17px;
+    color:black;
+}
+.Direction{
+    font-size: 15px;
+    color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aquamarine;
+}
