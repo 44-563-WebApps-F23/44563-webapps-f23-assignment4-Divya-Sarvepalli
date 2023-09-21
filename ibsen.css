@@ -67,16 +67,16 @@ h6{
 }
 table,th,td
 {
-    border-color: blueviolet;
-    color: brown;
+    border-color: midnightblue;
+    color: darkred;
     text-align: center;
     border-style: solid;
-    margin: 25px 50px 75px;
-    padding: 22px;
+    margin: 15px 30px 35px;
+    padding: 18px;
 }
 tr:nth-child(odd) {
-    background-color: darkgray;
+    background-color: lavender;
 }
 tr:nth-child(even) {
-    background-color: aquamarine;
+    background-color: pink;
 }
