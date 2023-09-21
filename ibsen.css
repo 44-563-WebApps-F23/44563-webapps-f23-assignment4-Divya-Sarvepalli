@@ -16,7 +16,7 @@ h6{
 .TESMAN{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
-    color: black;
+    color: rgb(223, 9, 9);
     text-align: left;
 }
 .TESMAN:hover{
@@ -35,7 +35,7 @@ h6{
 .HEDDA:hover{
     color: black;
     filter: contrast(1px);
-    border-style: dotted;
+    border-style: groove;
     text-shadow: rgb(193, 244, 7) 2px 0 12px;
     font-size: 16px;
 }
