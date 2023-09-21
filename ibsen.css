@@ -21,7 +21,7 @@ h6{
 }
 .TESMAN:hover{
     color: black;
-    filter: contrast(1px);
+    filter: blur(2px);
     border-style: dotted;
     text-shadow: cadetblue 2px 0 12px;
     font-size: 15px;
@@ -34,7 +34,7 @@ h6{
 }
 .HEDDA:hover{
     color: black;
-    filter: contrast(1px);
+    filter: blur(1px);
     border-style: groove;
     text-shadow: rgb(193, 244, 7) 2px 0 12px;
     font-size: 16px;
@@ -60,7 +60,7 @@ h6{
 }
 .ELVSTED:hover{
     color: black;
-    filter: saturate(1.5px);
+    filter: blur(1.5px);
     border-style: double;
     text-shadow: cornsilk 4px 0 13px;
     font-size: 15px;
