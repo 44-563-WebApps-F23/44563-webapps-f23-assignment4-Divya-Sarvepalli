@@ -71,9 +71,12 @@ table,th,td
     color: brown;
     text-align: center;
     border-style: solid;
-    margin: 25px 50px 75px 100px;
+    margin: 25px 50px 75px;
     padding: 22px;
 }
 tr:nth-child(odd) {
-    background-color: hotpink;
+    background-color: darkgray;
+}
+tr:nth-child(even) {
+    background-color: aquamarine;
 }
