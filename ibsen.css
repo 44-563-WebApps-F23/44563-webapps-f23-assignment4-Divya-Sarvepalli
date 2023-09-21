@@ -65,3 +65,13 @@ h6{
     text-shadow: cornsilk 4px 0 13px;
     font-size: 15px;
 }
+table,th,td
+{
+    border-color: blueviolet;
+    color: brown;
+    text-align: center;
+    border-style: solid;
+}
+th,td{
+    padding: auto;
+}
